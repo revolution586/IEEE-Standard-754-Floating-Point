@@ -1,0 +1,17 @@
+IEEEE - Institute of Electrical and Electronics Engineers
+
+Floating-Point:
+The term floating point is derived from the fact that there is no fixed number of digits before and after the decimal point; 
+that is, the decimal point can float. There are also representations in which the number of digits before and after 
+the decimal point is set, called fixed-pointrepresentations. In general, floating-point representations are slower 
+and less accurate than fixed-point representations, but they can handle a larger range of numbers.
+
+One of the challenges in programming with floating-point values is ensuring that the approximations lead to reasonable results. 
+If the programmeris not careful, small discrepancies in the approximations can snowball to the point where the final results 
+become meaningless.
+
+Because mathematics with floating-point numbers requires a great deal of computing power, many microprocessors come with a chip, 
+called a floating point unit (FPU ), specialized for performing floating-point arithmetic. 
+FPUs are also called math coprocessors and numeric coprocessors.
+
+//Welp, that's kinda cool, I kinda get I guess....//
