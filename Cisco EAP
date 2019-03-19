@@ -1,0 +1,22 @@
+WLAN - A wireless LAN (WLAN) is a wireless computer network that links two or more devices using wireless communication to 
+form a local area network (LAN) within a limited area such as a home, school, computer laboratory, campus, office building etc. 
+This gives users the ability to move around within the area and yet still be connected to the network. 
+Through a gateway, a WLAN can also provide a connection to the wider Internet.
+
+Half-Duplex - A half-duplex (HDX) system provides communication in both directions, but only one direction at a 
+time (not simultaneously). Typically, once a party begins receiving a signal, it must wait for the transmitter to stop 
+transmitting, before replying.
+An example of a half-duplex system is a two-party system such as a walkie-talkie, wherein one must use "over" or another 
+previously designated keyword to indicate the end of transmission, and ensure that only one party transmits at a time, 
+because both parties transmit and receive on the same frequency. 
+Half-duplex systems are usually used to conserve bandwidth, since only a single communication channel is needed, 
+which is shared alternately between the two directions.
+In half-duplex systems, if more than one party transmits at the same time, a collision occurs, resulting in lost messages.
+
+802.11 - The 802.11 family consists of a series of half-duplex over-the-air modulation techniques that use the same basic protocol. 
+The 802.11 protocol family employ carrier-sense multiple access with collision avoidance whereby equipment listens to a channel 
+for other users (including non 802.11 users) before transmitting each packet.
+//I didn't understand a word of that, but I think I get the idea//
+
+802 - IEEE 802 is a family of IEEE standards dealing with local area networks and metropolitan area networks. 802 comes from the 
+date these protocols were created, February 1980 (that's a theory, but I wanna believe it)
